@@ -6,7 +6,7 @@ A simple AI-powered app that generates interview questions and answers based on 
 
 * Python
 * Streamlit
-* OpenAI API
+* hugging Face
 
 ## ▶️ Run
 
